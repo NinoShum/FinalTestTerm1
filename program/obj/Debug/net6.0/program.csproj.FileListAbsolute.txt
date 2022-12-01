@@ -1,0 +1,15 @@
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\bin\Debug\net6.0\program.exe
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\bin\Debug\net6.0\program.deps.json
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\bin\Debug\net6.0\program.runtimeconfig.json
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\bin\Debug\net6.0\program.dll
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\bin\Debug\net6.0\program.pdb
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\program.dll
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\refint\program.dll
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\program.pdb
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+F:\программы\Git\сохранения\c#\FinalTestTerm1\program\obj\Debug\net6.0\ref\program.dll
